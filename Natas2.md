@@ -20,7 +20,7 @@ http://natas2.natas.labs.overthewire.org/files/
 
 - we see that there is a txt file `users.txt`
 
-contents of `users.txt`
+contents of `users.txt`:
 ```
 # username:password
 alice:BYNdCesZqW
