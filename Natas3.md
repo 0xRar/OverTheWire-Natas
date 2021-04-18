@@ -11,6 +11,9 @@
 this is the only thing in the source code
 `<!-- No more information leaks!! Not even Google will find it this time... -->`
 
+this comment is actually a hint for `robots.txt` because robots.txt can disallow directories
+so search engine crawlers wont find them.
+
 when i saw that i thought of `robots.txt` maybe there is something there
 
 
