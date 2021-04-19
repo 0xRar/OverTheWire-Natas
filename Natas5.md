@@ -17,7 +17,7 @@ or chrome.
 
 ![image](https://user-images.githubusercontent.com/33517160/115178203-7965e380-a0d9-11eb-8bbe-3c470c29465d.png)
 
-only cookie here is a `loggedin` = value `0` this is how the 
+only cookie here is a `loggedin` = `value`:`0` this is how the 
 website keeps track of loggedin users is by this cookie lets increase the value to `1`
 and see what we get:
 
