@@ -4,7 +4,7 @@
 
 - Username: natas7
 - Password: 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
-- URL: http://natas6.natas.labs.overthewire.org
+- URL: http://natas7.natas.labs.overthewire.org
 
 # Solution:
 ![image](https://user-images.githubusercontent.com/33517160/115260116-21f85f80-a13b-11eb-86ce-d8512fcbb57d.png)
