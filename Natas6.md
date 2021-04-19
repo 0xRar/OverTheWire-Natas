@@ -34,7 +34,7 @@ after seeing the source code the first thing will come to your mind is `Local Fi
 just because the code is using the `include function in php` but like i said nothing is showing in the url no
 query what so ever so i tried `?secret=../../../../../../includes/secret.inc` but didin't work for me,
 
-also in the source code we see that the `include function` is including a `secret.inc` under the directory `includes`
+also in the source code we see that the `include function` is including a `secret.inc` under the directory `/includes/`
 im guessing it has the password or some info?? so i tried accessing it normally http://natas6.natas.labs.overthewire.org/includes/secret.inc
 
 ![image](https://user-images.githubusercontent.com/33517160/115193831-56492d00-a0f5-11eb-8688-28ca574f8cb9.png)
